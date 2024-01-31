@@ -8,3 +8,4 @@
       * [GetUserData](base/exports/client/getuserdata.md)
     * [Server](base/exports/server/README.md)
       * [AddCharacter](base/exports/server/addcharacter.md)
+      * [GetCharacterInfoFromCid](base/exports/server/getcharacterinfofromcid.md)

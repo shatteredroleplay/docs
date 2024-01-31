@@ -16,6 +16,6 @@ Base.AddCharacter(steam, cid, data)
 ```
 
 * AddCharacter(steam, cid, data)
-  * steam (string) -- spelarens steamid
-  * cid (string)  -- karaktärs id som karaktären ska ha
-  * data (table) -- karaktärens data (firstname, lastname etc.. etc)
+  * steam (`string`) -- spelarens steamid
+  * cid (`string`)  -- karaktärs id som karaktären ska ha
+  * data (`table`) -- karaktärens data (firstname, lastname etc.. etc)
