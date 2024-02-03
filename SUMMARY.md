@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Base](README.md)
+  * [Functions](base/functions/README.md)
+    * [Vehicles](base/functions/vehicles/README.md)
+      * [GetVehicles](base/functions/vehicles/getvehicles.md)
+      * [GetVehiclesFromCid](base/functions/vehicles/getvehiclesfromcid.md)
+      * [GetVehiclesInGarage](base/functions/vehicles/getvehiclesingarage.md)
+      * [GetVehicleFromPlate](base/functions/vehicles/getvehiclefromplate.md)
+      * [PutInGarage](base/functions/vehicles/putingarage.md)
+      * [GetOwnershipFromEntity](base/functions/vehicles/getownershipfromentity.md)
   * [Callback](base/callback.md)
   * [Exports](base/exports/README.md)
     * [Client](base/exports/client.md)
