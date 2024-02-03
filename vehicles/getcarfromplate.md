@@ -4,8 +4,8 @@ description: >-
   skickar in.
 ---
 
-# GetVehicleFromPlate
+# GetCarFromPlate
 
 ```lua
-local vehicle = Base.Vehicles.GetVehicleFromPlate(plate)
+local vehicle = exports.vehicles:GetCarFromPlate(plate)
 ```

@@ -4,8 +4,8 @@ description: >-
   Behövs för inventoryt. Ger false eller all information i return value.
 ---
 
-# GetOwnershipFromEntity
+# GetOwnerFromEntity
 
 ```lua
-local owned = Base.Vehicles.GetOwnershipFromEntity(entity)
+local owned = exports.vehicles:GetOwnershipFromEntity(entity)
 ```
